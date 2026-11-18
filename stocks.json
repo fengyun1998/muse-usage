@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 00:04",
+  "updated_at": "2026-11-19 03:04",
   "items": [
     {
       "name": "紫金矿业",
@@ -32,8 +32,8 @@
       "name": "SPCX",
       "symbol": "SPCX",
       "currency": "$",
-      "price": 144.31,
-      "change_pct": 1.84,
+      "price": 144.12,
+      "change_pct": 1.71,
       "as_of": "11-18",
       "stale": false
     },
@@ -41,8 +41,8 @@
       "name": "INTC",
       "symbol": "INTC",
       "currency": "$",
-      "price": 54.11,
-      "change_pct": -1.92,
+      "price": 54.23,
+      "change_pct": -1.7,
       "as_of": "11-18",
       "stale": false
     },
@@ -50,8 +50,8 @@
       "name": "AMPX",
       "symbol": "AMPX",
       "currency": "$",
-      "price": 6.88,
-      "change_pct": 1.62,
+      "price": 6.72,
+      "change_pct": -0.74,
       "as_of": "11-18",
       "stale": false
     }

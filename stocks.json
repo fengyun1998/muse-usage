@@ -1,58 +1,58 @@
 {
-  "updated_at": "2026-11-19 09:04",
+  "updated_at": "2026-11-19 12:04",
   "items": [
     {
       "name": "紫金矿业",
       "symbol": "601899.SS",
       "currency": "¥",
-      "price": 24.52,
-      "change_pct": -5.66,
-      "as_of": "11-18",
+      "price": 23.35,
+      "change_pct": -4.77,
+      "as_of": "11-19",
       "stale": false
     },
     {
       "name": "特变电工",
       "symbol": "600089.SS",
       "currency": "¥",
-      "price": 17.87,
-      "change_pct": -0.67,
-      "as_of": "11-18",
+      "price": 17.8,
+      "change_pct": -0.39,
+      "as_of": "11-19",
       "stale": false
     },
     {
       "name": "佰金生命",
       "symbol": "1466.HK",
       "currency": "HK$",
-      "price": 1.59,
-      "change_pct": 0.32,
-      "as_of": "11-18",
+      "price": 1.53,
+      "change_pct": -3.77,
+      "as_of": "11-19",
       "stale": false
     },
     {
       "name": "SPCX",
       "symbol": "SPCX",
       "currency": "$",
-      "price": 141.7,
-      "change_pct": 3.16,
-      "as_of": "11-17",
+      "price": 143.5,
+      "change_pct": 1.27,
+      "as_of": "11-18",
       "stale": false
     },
     {
       "name": "INTC",
       "symbol": "INTC",
       "currency": "$",
-      "price": 55.17,
-      "change_pct": -0.54,
-      "as_of": "11-17",
+      "price": 54.67,
+      "change_pct": -0.91,
+      "as_of": "11-18",
       "stale": false
     },
     {
       "name": "AMPX",
       "symbol": "AMPX",
       "currency": "$",
-      "price": 6.77,
-      "change_pct": -4.92,
-      "as_of": "11-17",
+      "price": 6.73,
+      "change_pct": -0.59,
+      "as_of": "11-18",
       "stale": false
     }
   ]

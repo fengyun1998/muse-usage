@@ -1,10 +1,10 @@
 {
-  "remaining_pct": 1,
-  "used_pct": 99,
+  "remaining_pct": 0,
+  "used_pct": 100,
   "reset": "11月27日 10:15",
   "reset_iso": "2026-11-27T10:15:00+08:00",
   "extra_used_pct": 0,
   "extra_left": "30B",
-  "updated_at": "2026-11-24 05:38",
+  "updated_at": "2026-11-24 08:39",
   "plan": "免费版"
 }

@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-11-27 03:04",
+  "updated_at": "2026-11-27 06:04",
   "items": [
     {
       "name": "紫金矿业",
       "symbol": "601899.SS",
       "currency": "¥",
-      "price": 22.97,
-      "change_pct": -1.03,
-      "as_of": "11-25",
+      "price": 23.75,
+      "change_pct": 3.4,
+      "as_of": "11-26",
       "stale": false
     },
     {
       "name": "特变电工",
       "symbol": "600089.SS",
       "currency": "¥",
-      "price": 18.35,
-      "change_pct": -0.27,
-      "as_of": "11-25",
+      "price": 18.13,
+      "change_pct": -1.2,
+      "as_of": "11-26",
       "stale": false
     },
     {
       "name": "佰金生命",
       "symbol": "1466.HK",
       "currency": "HK$",
-      "price": 1.29,
-      "change_pct": -2.63,
-      "as_of": "11-25",
+      "price": 1.38,
+      "change_pct": 6.18,
+      "as_of": "11-26",
       "stale": false
     },
     {
